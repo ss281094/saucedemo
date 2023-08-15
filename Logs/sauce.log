@@ -1,0 +1,374 @@
+2023-08-13 16:30:23,557 : INFO : Test_Login : test_page_title_001 : 12 : Test Case test_page_title_001 is started 
+2023-08-13 16:30:23,557 : INFO : Test_Login : test_page_title_001 : 13 : opening browser
+2023-08-13 16:30:23,583 : INFO : Test_Login : test_page_title_001 : 15 : Page title is Swag Labs
+2023-08-13 16:30:23,593 : INFO : Test_Login : test_page_title_001 : 17 : Taking Screenshot
+2023-08-13 16:30:25,764 : INFO : Test_Login : test_page_title_001 : 20 : Test Case test_page_title_001 is Passed 
+2023-08-13 16:30:25,764 : INFO : Test_Login : test_page_title_001 : 27 : Test Case test_page_title_001 is commpleted
+2023-08-13 16:30:29,628 : INFO : Test_Login : test_login_002 : 30 : Test Case test_login_002 is started
+2023-08-13 16:30:29,632 : INFO : Test_Login : test_login_002 : 31 : opening browser
+2023-08-13 16:30:29,632 : INFO : Test_Login : test_login_002 : 34 : Entering Username
+2023-08-13 16:30:29,803 : INFO : Test_Login : test_login_002 : 36 : Entering Password :
+2023-08-13 16:30:29,922 : INFO : Test_Login : test_login_002 : 39 : clicking in login button
+2023-08-13 16:30:30,105 : INFO : Test_Login : test_login_002 : 41 : checking login status
+2023-08-13 16:30:30,155 : INFO : Test_Login : test_login_002 : 43 : Taking Screenshot
+2023-08-13 16:30:30,350 : INFO : Test_Login : test_login_002 : 45 : click on menu
+2023-08-13 16:30:30,557 : INFO : Test_Login : test_login_002 : 47 : click on logout button
+2023-08-13 16:30:30,662 : INFO : Test_Login : test_login_002 : 49 : Test Case test_login_002 is passed
+2023-08-13 16:30:30,662 : INFO : Test_Login : test_login_002 : 57 : Test Case test_login_002 is completed
+2023-08-13 20:31:17,704 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-13 20:31:17,704 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-13 20:31:17,712 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-13 20:31:17,720 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-13 20:31:19,869 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-13 20:31:19,869 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-13 20:31:24,137 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-13 20:31:24,137 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-13 20:31:24,137 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-13 20:31:24,381 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-13 20:31:24,524 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-13 20:31:24,753 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-13 20:31:24,832 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-13 20:31:25,158 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-13 20:31:25,223 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-13 20:31:25,368 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-13 20:31:25,368 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:11:53,824 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:11:53,825 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:11:53,826 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:11:54,108 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:11:54,224 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:11:54,354 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:15:03,986 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:15:03,987 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:15:03,987 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:15:04,245 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:15:04,360 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:15:04,507 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:18:44,141 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:18:44,142 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:18:44,143 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:18:44,396 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:18:44,507 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:18:44,661 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:22:32,387 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:22:32,387 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:22:32,387 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:22:32,387 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:22:32,387 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:22:32,387 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:22:32,648 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:22:32,648 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:22:32,769 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:22:32,769 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:22:32,890 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:22:32,890 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:22:36,608 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:22:36,608 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:22:36,608 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:22:36,608 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:22:36,624 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:22:36,624 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:22:36,640 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:22:36,640 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:22:38,724 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:22:38,724 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:22:38,724 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:22:38,724 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:22:42,024 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:22:42,024 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:22:42,024 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:22:42,024 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:22:42,024 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:22:42,024 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:22:42,245 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:22:42,245 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:22:42,365 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:22:42,365 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:22:42,504 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:22:42,504 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:22:42,520 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:22:42,520 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:22:42,624 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:22:42,624 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:22:42,679 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:22:42,679 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:22:42,839 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:22:42,839 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:22:42,839 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:22:42,839 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:27:04,490 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:27:04,490 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:27:04,490 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:27:04,490 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:27:04,490 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:27:04,490 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:27:04,721 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:27:04,721 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:27:04,831 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:27:04,831 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:27:04,981 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:27:04,981 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:27:08,630 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:27:08,630 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:27:08,630 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:27:08,630 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:27:08,638 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:27:08,638 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:27:08,646 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:27:08,646 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:27:10,743 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:27:10,743 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:27:10,743 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:27:10,743 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:27:14,712 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:27:14,712 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:27:14,712 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:27:14,712 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:27:14,712 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:27:14,712 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:27:14,925 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:27:14,925 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:27:15,042 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:27:15,042 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:27:15,174 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:27:15,174 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:27:15,190 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:27:15,190 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:27:15,262 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:27:15,262 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:27:15,342 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:27:15,342 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:27:15,430 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:27:15,430 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:27:15,430 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:27:15,430 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:29:53,933 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:29:53,933 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:29:53,933 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:29:53,933 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:29:53,933 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:29:53,933 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:29:54,219 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:29:54,219 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:29:54,344 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:29:54,344 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:29:54,518 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:29:54,518 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:29:58,335 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:29:58,335 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:29:58,335 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:29:58,335 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:29:58,361 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:29:58,361 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:29:58,376 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:29:58,376 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:30:00,506 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:30:00,506 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:30:00,506 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:30:00,506 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:30:04,802 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:30:04,802 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:30:04,802 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:30:04,802 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:30:04,802 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:30:04,802 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:30:05,035 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:30:05,035 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:30:05,152 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:30:05,152 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:30:05,285 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:30:05,285 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:30:05,317 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:30:05,317 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:30:05,421 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:30:05,421 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:30:05,496 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:30:05,496 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:30:05,704 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:30:05,704 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:30:05,704 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:30:05,704 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:31:09,196 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:31:09,196 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-14 23:31:09,196 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:31:09,196 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-14 23:31:09,196 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:31:09,196 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-14 23:31:09,421 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:31:09,421 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-14 23:31:09,580 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:31:09,580 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-14 23:31:09,763 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:31:09,763 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-14 23:31:13,799 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:31:13,799 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-14 23:31:13,799 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:31:13,799 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-14 23:31:13,799 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:31:13,799 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-14 23:31:13,820 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:31:13,820 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-14 23:31:15,965 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:31:15,965 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-14 23:31:15,965 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:31:15,965 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-14 23:31:20,039 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:31:20,039 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-14 23:31:20,039 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:31:20,039 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-14 23:31:20,039 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:31:20,039 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-14 23:31:20,235 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:31:20,235 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-14 23:31:20,414 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:31:20,414 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-14 23:31:20,653 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:31:20,653 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-14 23:31:20,697 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:31:20,697 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-14 23:31:21,160 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:31:21,160 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-14 23:31:21,228 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:31:21,228 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-14 23:31:21,393 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:31:21,393 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-14 23:31:21,393 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-14 23:31:21,393 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-15 12:31:45,028 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-15 12:31:45,028 : INFO : Test_Login : test_AddtoCart_004 : 23 : Test Case test_AddtoCart_004 is started
+2023-08-15 12:31:45,028 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-15 12:31:45,028 : INFO : Test_Login : test_AddtoCart_004 : 24 : opening browser
+2023-08-15 12:31:45,028 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-15 12:31:45,028 : INFO : Test_Login : test_AddtoCart_004 : 27 : Entering Usernamestandard_user
+2023-08-15 12:31:45,217 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-15 12:31:45,217 : INFO : Test_Login : test_AddtoCart_004 : 29 : Entering Password :secret_sauce
+2023-08-15 12:31:45,319 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-15 12:31:45,319 : INFO : Test_Login : test_AddtoCart_004 : 32 : clicking in login button
+2023-08-15 12:31:45,440 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-15 12:31:45,440 : INFO : Test_Login : test_AddtoCart_004 : 35 : Click on add to cart
+2023-08-15 12:31:49,079 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-15 12:31:49,079 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-15 12:31:49,079 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-15 12:31:49,079 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-15 12:31:49,087 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-15 12:31:49,087 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-15 12:31:49,095 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-15 12:31:49,095 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-15 12:31:51,242 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-15 12:31:51,242 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-15 12:31:51,242 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-15 12:31:51,242 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-15 12:31:54,717 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-15 12:31:54,717 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-15 12:31:54,717 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-15 12:31:54,717 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-15 12:31:54,717 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-15 12:31:54,717 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-15 12:31:54,888 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-15 12:31:54,888 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-15 12:31:54,999 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-15 12:31:54,999 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-15 12:31:55,140 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-15 12:31:55,140 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-15 12:31:55,156 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-15 12:31:55,156 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-15 12:31:55,278 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-15 12:31:55,278 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-15 12:31:55,338 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-15 12:31:55,338 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-15 12:31:55,554 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-15 12:31:55,554 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-15 12:31:55,554 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-15 12:31:55,554 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-15 12:46:03,356 : INFO : Test_Login : test_AddtoCart_004 : 16 : Test Case test_AddtoCart_004 is started
+2023-08-15 12:46:03,356 : INFO : Test_Login : test_AddtoCart_004 : 16 : Test Case test_AddtoCart_004 is started
+2023-08-15 12:46:03,356 : INFO : Test_Login : test_AddtoCart_004 : 17 : opening browser
+2023-08-15 12:46:03,356 : INFO : Test_Login : test_AddtoCart_004 : 17 : opening browser
+2023-08-15 12:46:03,356 : INFO : Test_Login : test_AddtoCart_004 : 20 : Entering Usernamestandard_user
+2023-08-15 12:46:03,356 : INFO : Test_Login : test_AddtoCart_004 : 20 : Entering Usernamestandard_user
+2023-08-15 12:46:03,569 : INFO : Test_Login : test_AddtoCart_004 : 22 : Entering Password :secret_sauce
+2023-08-15 12:46:03,569 : INFO : Test_Login : test_AddtoCart_004 : 22 : Entering Password :secret_sauce
+2023-08-15 12:46:03,680 : INFO : Test_Login : test_AddtoCart_004 : 25 : clicking in login button
+2023-08-15 12:46:03,680 : INFO : Test_Login : test_AddtoCart_004 : 25 : clicking in login button
+2023-08-15 12:46:03,824 : INFO : Test_Login : test_AddtoCart_004 : 28 : Click on add to cart
+2023-08-15 12:46:03,824 : INFO : Test_Login : test_AddtoCart_004 : 28 : Click on add to cart
+2023-08-15 12:46:07,290 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-15 12:46:07,290 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-15 12:46:07,290 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-15 12:46:07,290 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-15 12:46:07,306 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-15 12:46:07,306 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-15 12:46:07,314 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-15 12:46:07,314 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-15 12:46:09,433 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-15 12:46:09,433 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-15 12:46:09,433 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-15 12:46:09,433 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-15 12:46:13,161 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-15 12:46:13,161 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-15 12:46:13,161 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-15 12:46:13,161 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-15 12:46:13,161 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-15 12:46:13,161 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-15 12:46:13,315 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-15 12:46:13,315 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-15 12:46:13,448 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-15 12:46:13,448 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-15 12:46:13,614 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-15 12:46:13,614 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-15 12:46:13,646 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-15 12:46:13,646 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-15 12:46:13,782 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-15 12:46:13,782 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-15 12:46:13,844 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-15 12:46:13,844 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-15 12:46:14,010 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-15 12:46:14,010 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-15 12:46:14,010 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-15 12:46:14,010 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-15 12:46:57,293 : INFO : Test_Login : test_AddtoCart_004 : 16 : Test Case test_AddtoCart_004 is started
+2023-08-15 12:46:57,293 : INFO : Test_Login : test_AddtoCart_004 : 16 : Test Case test_AddtoCart_004 is started
+2023-08-15 12:46:57,296 : INFO : Test_Login : test_AddtoCart_004 : 17 : opening browser
+2023-08-15 12:46:57,296 : INFO : Test_Login : test_AddtoCart_004 : 17 : opening browser
+2023-08-15 12:46:57,296 : INFO : Test_Login : test_AddtoCart_004 : 20 : Entering Usernamestandard_user
+2023-08-15 12:46:57,296 : INFO : Test_Login : test_AddtoCart_004 : 20 : Entering Usernamestandard_user
+2023-08-15 12:46:57,456 : INFO : Test_Login : test_AddtoCart_004 : 22 : Entering Password :secret_sauce
+2023-08-15 12:46:57,456 : INFO : Test_Login : test_AddtoCart_004 : 22 : Entering Password :secret_sauce
+2023-08-15 12:46:57,598 : INFO : Test_Login : test_AddtoCart_004 : 25 : clicking in login button
+2023-08-15 12:46:57,598 : INFO : Test_Login : test_AddtoCart_004 : 25 : clicking in login button
+2023-08-15 12:46:57,754 : INFO : Test_Login : test_AddtoCart_004 : 28 : Click on add to cart
+2023-08-15 12:46:57,754 : INFO : Test_Login : test_AddtoCart_004 : 28 : Click on add to cart
+2023-08-15 12:47:01,435 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-15 12:47:01,435 : INFO : Test_Login : test_page_title_001 : 22 : Test Case test_page_title_001 is started 
+2023-08-15 12:47:01,435 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-15 12:47:01,435 : INFO : Test_Login : test_page_title_001 : 23 : opening browser
+2023-08-15 12:47:01,435 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-15 12:47:01,435 : INFO : Test_Login : test_page_title_001 : 25 : Page title is Swag Labs
+2023-08-15 12:47:01,448 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-15 12:47:01,448 : INFO : Test_Login : test_page_title_001 : 27 : Taking Screenshot
+2023-08-15 12:47:03,632 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-15 12:47:03,632 : INFO : Test_Login : test_page_title_001 : 30 : Test Case test_page_title_001 is Passed 
+2023-08-15 12:47:03,632 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-15 12:47:03,632 : INFO : Test_Login : test_page_title_001 : 37 : Test Case test_page_title_001 is commpleted
+2023-08-15 12:47:07,975 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-15 12:47:07,975 : INFO : Test_Login : test_login_002 : 40 : Test Case test_login_002 is started
+2023-08-15 12:47:07,975 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-15 12:47:07,975 : INFO : Test_Login : test_login_002 : 41 : opening browser
+2023-08-15 12:47:07,975 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-15 12:47:07,975 : INFO : Test_Login : test_login_002 : 44 : Entering Usernamestandard_user
+2023-08-15 12:47:08,219 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-15 12:47:08,219 : INFO : Test_Login : test_login_002 : 46 : Entering Password :secret_sauce
+2023-08-15 12:47:08,349 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-15 12:47:08,349 : INFO : Test_Login : test_login_002 : 49 : clicking in login button
+2023-08-15 12:47:08,589 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-15 12:47:08,589 : INFO : Test_Login : test_login_002 : 51 : checking login status
+2023-08-15 12:47:08,665 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-15 12:47:08,665 : INFO : Test_Login : test_login_002 : 53 : Taking Screenshot
+2023-08-15 12:47:09,077 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-15 12:47:09,077 : INFO : Test_Login : test_login_002 : 55 : click on menu
+2023-08-15 12:47:09,154 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-15 12:47:09,154 : INFO : Test_Login : test_login_002 : 57 : click on logout button
+2023-08-15 12:47:09,305 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-15 12:47:09,305 : INFO : Test_Login : test_login_002 : 59 : Test Case test_login_002 is passed
+2023-08-15 12:47:09,313 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
+2023-08-15 12:47:09,313 : INFO : Test_Login : test_login_002 : 67 : Test Case test_login_002 is completed
